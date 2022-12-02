@@ -32,7 +32,7 @@
 
 ## 実際のプログラム
 
-enebular-m5stack-simple-post.ino をコピーして、みなさんの Arduino IDE で開いて作業を進めます。
+[enebular-m5stack-simple-post.ino](enebular-m5stack-simple-post.ino) をコピーして、みなさんの Arduino IDE で開いて作業を進めます。
 
 ## Wi-Fi 情報を反映
 
